@@ -1,2 +1,6 @@
 # MSU-Computer-Practicum
-Lomonosov Moscow State University Computer Practicum C++/Python
+
+## Lomonosov Moscow State University 
+Faculty of Mechanics and Mathematics
+Computer Practicum
+C++/Python
